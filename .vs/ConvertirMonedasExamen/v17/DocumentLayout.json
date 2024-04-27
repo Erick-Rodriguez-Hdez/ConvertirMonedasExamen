@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\erick\\Desktop\\tareas lab prog 4\\ConvertirMonedasExamen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13F45B52-77B4-4AAE-AB33-4AEA40298AFC}|ConvertirMonedasExamen\\ConvertirMonedasExamen.csproj|c:\\users\\erick\\desktop\\tareas lab prog 4\\convertirmonedasexamen\\convertirmonedasexamen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13F45B52-77B4-4AAE-AB33-4AEA40298AFC}|ConvertirMonedasExamen\\ConvertirMonedasExamen.csproj|solutionrelative:convertirmonedasexamen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13F45B52-77B4-4AAE-AB33-4AEA40298AFC}|ConvertirMonedasExamen\\ConvertirMonedasExamen.csproj|c:\\users\\erick\\desktop\\tareas lab prog 4\\convertirmonedasexamen\\convertirmonedasexamen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{13F45B52-77B4-4AAE-AB33-4AEA40298AFC}|ConvertirMonedasExamen\\ConvertirMonedasExamen.csproj|solutionrelative:convertirmonedasexamen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\Desktop\\tareas lab prog 4\\ConvertirMonedasExamen\\ConvertirMonedasExamen\\Form1.cs",
+              "RelativeDocumentMoniker": "ConvertirMonedasExamen\\Form1.cs",
+              "ToolTip": "C:\\Users\\erick\\Desktop\\tareas lab prog 4\\ConvertirMonedasExamen\\ConvertirMonedasExamen\\Form1.cs",
+              "RelativeToolTip": "ConvertirMonedasExamen\\Form1.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAtwI8AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T01:03:02.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\erick\\Desktop\\tareas lab prog 4\\ConvertirMonedasExamen\\ConvertirMonedasExamen\\Form1.cs",
+              "RelativeDocumentMoniker": "ConvertirMonedasExamen\\Form1.cs",
+              "ToolTip": "C:\\Users\\erick\\Desktop\\tareas lab prog 4\\ConvertirMonedasExamen\\ConvertirMonedasExamen\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ConvertirMonedasExamen\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T00:52:23.74Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
